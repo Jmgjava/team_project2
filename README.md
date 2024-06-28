@@ -98,7 +98,7 @@
 
 | layout 구현                                                                                                |
 |----------------------------------------------------------------------------------------------------------|
-| ![layout.gif](..%2F..%2Fgif%2Flayout.gif) |
+| ![layout](https://github.com/Jmgjava/team_project2/assets/154856565/9bd4352c-5a22-4c9e-8550-beb1a25005cd) |
 
 ### OpenWeather API
 
@@ -106,7 +106,7 @@
 
 | layout 부분 weather                                                                                         |
 |-----------------------------------------------------------------------------------------------------------|
-| ![weather.gif](..%2F..%2Fgif%2Fweather.gif) |
+| ![weather](https://github.com/Jmgjava/team_project2/assets/154856565/9d31e65f-a4bd-41ba-83c5-5084c39edec4) |
 
 ### 부서관리
 
@@ -114,15 +114,15 @@
 
 | 부서 생성                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------|
-| ![department_C.gif](..%2F..%2Fgif%2Fdepartment_C.gif) |
+| ![department_C](https://github.com/Jmgjava/team_project2/assets/154856565/3d5b82a6-2a4b-42f1-9579-ee9fda771e1a) |
 
 | 부서 조회,수정                                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------|
-| ![department_RU.gif](..%2F..%2Fgif%2Fdepartment_RU.gif) |
+| ![department_RU](https://github.com/Jmgjava/team_project2/assets/154856565/136516e0-62cc-4601-94d3-694b24b2a92d) |
 
 | 부서 삭제                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------|
-| ![department_D.gif](..%2F..%2Fgif%2Fdepartment_D.gif) |
+| ![department_D](https://github.com/Jmgjava/team_project2/assets/154856565/53ede5f8-46bf-40c3-b797-5c91ab45ef0f) |
 
 ### chatBot
 
@@ -130,11 +130,9 @@
 
 | 직원 검색                                                                                                            |
 |------------------------------------------------------------------------------------------------------------------|
-| ![chatBot_member.gif](..%2F..%2Fgif%2FchatBot_member.gif) |
+| ![chatBot_member](https://github.com/Jmgjava/team_project2/assets/154856565/884d7dae-8a61-4513-8d11-354b9040b740) |
 
 
 <br>
-
-.
 
 ![transparent](https://capsule-render.vercel.app/api?type=soft&color=324153&fontColor=fff&text=감사합니다.&animation=fadeIn&height=100&fontSize=40&descAlignY=80&descAlign=70)
