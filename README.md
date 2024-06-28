@@ -135,4 +135,6 @@
 
 <br>
 
+.
+
 ![transparent](https://capsule-render.vercel.app/api?type=soft&color=324153&fontColor=fff&text=감사합니다.&animation=fadeIn&height=100&fontSize=40&descAlignY=80&descAlign=70)
