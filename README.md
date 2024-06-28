@@ -98,7 +98,7 @@
 
 | layout 구현                                                                                                |
 |----------------------------------------------------------------------------------------------------------|
-| ![layout](https://github.com/Jmgjava/JMG_projects/assets/154856565/9c97de23-464b-45d4-9c07-a6874e09577f) |
+| ![layout.gif](..%2F..%2Fgif%2Flayout.gif) |
 
 ### OpenWeather API
 
@@ -106,7 +106,7 @@
 
 | layout 부분 weather                                                                                         |
 |-----------------------------------------------------------------------------------------------------------|
-| ![weather](https://github.com/Jmgjava/JMG_projects/assets/154856565/8d66fefa-093e-477e-ba6b-61cbafb53a40) |
+| ![weather.gif](..%2F..%2Fgif%2Fweather.gif) |
 
 ### 부서관리
 
@@ -114,15 +114,15 @@
 
 | 부서 생성                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------|
-| ![department_C](https://github.com/Jmgjava/JMG_projects/assets/154856565/c6853801-7be1-4204-913a-476f2b6a581e) |
+| ![department_C.gif](..%2F..%2Fgif%2Fdepartment_C.gif) |
 
 | 부서 조회,수정                                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------|
-| ![department_RU](https://github.com/Jmgjava/JMG_projects/assets/154856565/f81ecf1a-4bd2-4621-80da-58daa1d7be0b) |
+| ![department_RU.gif](..%2F..%2Fgif%2Fdepartment_RU.gif) |
 
 | 부서 삭제                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------|
-| ![department_D](https://github.com/Jmgjava/JMG_projects/assets/154856565/de12d69e-e7b2-4cb4-b48f-bae577a8edd0) |
+| ![department_D.gif](..%2F..%2Fgif%2Fdepartment_D.gif) |
 
 ### chatBot
 
@@ -130,7 +130,7 @@
 
 | 직원 검색                                                                                                            |
 |------------------------------------------------------------------------------------------------------------------|
-| ![chatBot_member](https://github.com/Jmgjava/JMG_projects/assets/154856565/8d90d86e-1c13-4f61-92c7-f80a90c62e8e) |
+| ![chatBot_member.gif](..%2F..%2Fgif%2FchatBot_member.gif) |
 
 
 <br>
